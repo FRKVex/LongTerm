@@ -1,0 +1,25 @@
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: gray;
+}
+
+.nav-brand{
+    padding:40px;
+    margin:10px;
+    float:left;
+    font-size:30px;
+}
+
+.nav-container ul{
+    list-style-type: none;
+}
+
+.nav-container li{
+    float: left;
+    padding:50px;
+}
+
+.nav-container li a{
+    font-size: 30px;
+}
